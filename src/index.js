@@ -1,3 +1,5 @@
 console.log("index.js");
 console.log("version1");
-onsole.log("vestion2");
+console.log("version2");
+
+console.log("version3");
